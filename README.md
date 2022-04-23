@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jmolling
 - 👀 I’m interested in Hacking and Cyber Security Architecture
-- 🌱 I’m currently learning for CISSP and OSCP certification
+- 🌱 I’m currently learning for CISSP and OSCP certifications.
 - 💞️ I’m looking to collaborate on develop the Cyber Security Community
 - 📫 How to reach me ...
 
