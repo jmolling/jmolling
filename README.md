@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - 👀 I’m interested in Hacking and Cyber Security Architecture
 - 🌱 I’m currently learning for CISSP and OSCP certifications.
 - 💞️ I’m looking to collaborate on develop the Cyber Security Community
-- 📫 How to reach me ...
 
 <!---
 jmolling/jmolling is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
