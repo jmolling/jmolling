@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 
 - 👋 I’m @jmolling
-- 👀 I’m interested in Hacking and Cyber Security Architecture
-- 🌱 I’m currently learning for OSCP certification.
+- 👀 I’m interested in Hacking and Cyber Security Architecture topics.
+- 🌱 I’m currently learning for some certifications exams, especially HackTheBox trail. I use the certification process as a source of study and motivation.
 - 💞️ I’m looking to collaborate on develop the Cyber Security Community
+
 
 <!---
 jmolling/jmolling is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
